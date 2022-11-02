@@ -1,0 +1,8 @@
+github:
+  access-token: <github private token>
+ali-yun:
+  access-key-id: <access-id>
+  access-key-secret: <access-secret>
+  acr-instance-id: <acr-instance-id>
+server:
+  port: 8081
